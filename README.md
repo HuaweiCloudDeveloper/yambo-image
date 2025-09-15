@@ -34,7 +34,7 @@ The open-source image product [**Yambo excited-state computational software**](h
 | Image Specification                                                                                                       | Feature Description | Remarks |
 |------------------------------------------------------------------------------------------------------------| --- | --- |
 | [Yambo-5.3.0-kunpeng](https://github.com/HuaweiCloudDeveloper/yambo-image/tree/Yambo-5.3.0-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
-| [Yambo-5.3.0-QE-7.5-kunpeng](https://github.com/HuaweiCloudDeveloper/yambo-image/tree/Yambo-5.3.0-QE-7.5-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit | Installed Quantum ESPRESSO at the same time |
+| [Yambo-5.3.0-QE-7.5-kunpeng](https://github.com/HuaweiCloudDeveloper/yambo-image/tree/Yambo-5.3.0-QE-7.5-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit | Installed Quantum ESPRESSO for DFT calculation |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/yambo-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
