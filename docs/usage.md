@@ -1,7 +1,7 @@
 # Yambo使用指南
 
 # 一、商品链接
-
+[Yambo激发态计算软件](https://marketplace.huaweicloud.com/hidden/contents/65afebbd-cb0f-47e8-978e-5a90c9747edf#productid=OFFI1169451101213282304)
 # 二、商品说明
 
 Yambo是一个基于多体微扰理论和时间依赖密度泛函理论的材料性质预测软件，它实现了基于格林函数论的第一性原理方法俩描述现实材料的激发态特性。
@@ -136,5 +136,6 @@ gnuplot> q
 ![test_res.jpg](images/test_res.jpg)
 ## 参考文档
 - [Yambo官方wiki教程](https://wiki.yambo-code.eu/wiki/index.php?title=Tutorials)
+
 
 
